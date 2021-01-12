@@ -1,0 +1,53 @@
+{
+
+  "users":[
+  {
+    "id": 1,
+    "name": "kumar",
+    "email": "kumar@gmail.com",
+    "location": "INDIA",
+    "course": "fullstack",
+    "phone": 9984532190
+    },
+  {
+    "id": 2,
+    "name": "Veeresh",
+    "email": "veeresh@gmail.com",
+    "location": "USA",
+    "course": "ui",
+    "phone": 9984532191
+  },
+  {
+    "id": 3,
+    "name": "Anitha",
+    "email": "anitha@gmail.com",
+    "location": "INDIA",
+    "course": "ux",
+    "phone": 9984532192
+  },
+  {
+    "id": 4,
+    "name": "Sidhardh",
+    "email": "sidhardh@gmail.com",
+    "location": "USA",
+    "course": "python",
+    "phone": 9984532193
+  },
+  {
+    "id": 5,
+    "name": "Sidhu",
+    "email": "sidhu12@gmail.com",
+    "location": "UK",
+    "course": "msdos",
+    "phone": 9984532194
+  },
+  {
+    "id": 6,
+    "name": "Shasank",
+    "email": "shasank@gmail.com",
+    "location": "INDIA",
+    "course": "java",
+    "phone": 9984532195
+  }
+]
+}

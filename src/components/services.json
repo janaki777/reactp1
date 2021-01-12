@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "name":"application-designing-service",
+        "classname":"Appdesigning",
+        "banner":"./../../images/portfolios/portfolio-1.jpg",
+        "description":"At Softpal, we offer fully customized web development service based on the client's requirements and their business goals. We make the right use of modern technologies like ASP.net, Ajax, MVC, Android etc. and high quality of creativity. We develop custom web applications which not only establish easy and effective interaction with your customers but also make you one of the industry leaders.We are geared to develop attractive, fast-loading, search engine optimized sites with easy and user-friendly navigation. Our team of expert web developers deliver creativity bundled with technical expertise to give that crucial zing, presence and impact to your website.",
+        "keywords":["logo","mockups","wireframes","application designs"]
+    },
+    {
+        "id":2,
+        "name":"application-development-service",
+        "classname":"Appdevelopment",
+        "banner":"./../images/portfolios/portfolio-2.png",
+        "description":"At Softpal, we offer fully customized web development service based on the client's requirements and their business goals. We make the right use of modern technologies like ASP.net, Ajax, MVC, Android etc. and high quality of creativity. We develop custom web applications which not only establish easy and effective interaction with your customers but also make you one of the industry leaders.We are geared to develop attractive, fast-loading, search engine optimized sites with easy and user-friendly navigation. Our team of expert web developers deliver creativity bundled with technical expertise to give that crucial zing, presence and impact to your website.",
+        "keywords":["java development",".net development","Python development","Nodejs development"]
+    },
+    {
+        "id":3,
+        "name":"digital-marketing-service",
+        "classname":"Digitalmarketing",
+        "banner":"./../../images/portfolios/portfolio-3.jpeg",
+        "description":"At Softpal, we offer fully customized web development service based on the client's requirements and their business goals. We make the right use of modern technologies like ASP.net, Ajax, MVC, Android etc. and high quality of creativity. We develop custom web applications which not only establish easy and effective interaction with your customers but also make you one of the industry leaders.We are geared to develop attractive, fast-loading, search engine optimized sites with easy and user-friendly navigation. Our team of expert web developers deliver creativity bundled with technical expertise to give that crucial zing, presence and impact to your website.",
+        "keywords":["SEO Service","PPC Service","SEM Service","Affiliate Service"]
+    },
+    {
+        "id":4,
+        "name":"mobile-application-service",
+        "classname":"Mobileapps",
+        "banner":"./../../images/portfolios/portfolio-4.jpg",
+        "description":"At Softpal, we offer fully customized web development service based on the client's requirements and their business goals. We make the right use of modern technologies like ASP.net, Ajax, MVC, Android etc. and high quality of creativity. We develop custom web applications which not only establish easy and effective interaction with your customers but also make you one of the industry leaders.We are geared to develop attractive, fast-loading, search engine optimized sites with easy and user-friendly navigation. Our team of expert web developers deliver creativity bundled with technical expertise to give that crucial zing, presence and impact to your website.",
+        "keywords":["Android Apps","IOS Apps","IONIC Apps","React Native Apps"]
+    }
+    
+]

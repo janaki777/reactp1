@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Veeresh",
+      "email": "veeresh@gmail.com",
+      "location": "INDIA",
+      "course": "ui",
+      "phone": 9984532191
+    },
+    {
+      "id": 4,
+      "name": "Sidhardh",
+      "email": "sidhardh@gmail.com",
+      "location": "USA",
+      "course": "python",
+      "phone": 9984532193
+    },
+    {
+      "id": 6,
+      "name": "mjram",
+      "email": "digital.123mjr@gmail.com",
+      "location": "INDIA",
+      "course": "oracle",
+      "phone": 9984532134
+    },
+    {
+      "id": 7,
+      "name": "Shasank",
+      "email": "shasank@gmail.com",
+      "location": "USA",
+      "course": "java",
+      "phone": "9984532199"
+    },
+    {
+      "id": 6,
+      "name": "mjram",
+      "email": "digital.123mjr@gmail.com",
+      "location": "INDIA",
+      "course": "oracle",
+      "phone": 9984532134
+    },
+    {
+      "id": 7,
+      "name": "Shasank",
+      "email": "shasank@gmail.com",
+      "location": "INDIA",
+      "course": "java",
+      "phone": 9984532195
+    },
+    {
+      "name": "johnny",
+      "email": "johnny001@gmail.com",
+      "location": "UK",
+      "course": "REACTJS",
+      "phone": "9985190233",
+      "id": 9
+    },
+    {
+      "name": "ramudu",
+      "email": "ramu12@gmail.com",
+      "location": "USA",
+      "course": "java",
+      "phone": "9985190222",
+      "id": 10
+    },
+    {
+      "name": "ravi",
+      "email": "ravi111@gmail.com",
+      "location": "INDIA",
+      "course": "REACT",
+      "phone": "9985190288",
+      "id": 11
+    },
+    {
+      "name": "shiva",
+      "email": "shiva12@gmail.com",
+      "location": "INDIA",
+      "course": "Python",
+      "phone": "9985190888",
+      "id": 12
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "name": "kanaka",
+      "email": "kumar23@gmail.com",
+      "location": "USA",
+      "course": "fullstack",
+      "phone": 9984532190
+    },
+    {
+      "id": 2,
+      "name": "Veeresh",
+      "email": "veeresh12@gmail.com",
+      "location": "USA",
+      "course": "ui",
+      "phone": 9984532181
+    },
+    {
+      "id": 3,
+      "name": "Anitha",
+      "email": "anitha12@gmail.com",
+      "location": "INDIA",
+      "course": "ux",
+      "phone": 9984532345
+    },
+    {
+      "id": 4,
+      "name": "Saida",
+      "email": "sidhardh123@gmail.com",
+      "location": "USA",
+      "course": "python",
+      "phone": 9984532666
+    },
+    {
+      "id": 5,
+      "name": "Sidhu",
+      "email": "sidhu12@gmail.com",
+      "location": "UK",
+      "course": "msdos",
+      "phone": 9984532194
+    },
+    {
+      "id": 6,
+      "name": "Shasank",
+      "email": "shasank@gmail.com",
+      "location": "INDIA",
+      "course": "java",
+      "phone": 9984532195
+    }
+  ]
+}
